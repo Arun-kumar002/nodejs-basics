@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "nodemailer": "^6.7.7",
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "start": "nodemon formserver.js"
+  },
+  "name": "get-and-post",
+  "version": "1.0.0",
+  "description": "to install the third party modules",
+  "main": "server.js",
+  "keywords": [
+    "fs",
+    "http",
+    "nodemailer",
+    "querystring"
+  ],
+  "author": "harish",
+  "license": "ISC"
+}

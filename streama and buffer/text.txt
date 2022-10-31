@@ -1,0 +1,2 @@
+hi hello we are testing the buffer by reading the current content What is Lorem Ipsum?
+Lorem Ipsum i
